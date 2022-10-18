@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coder\\OneDrive\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj": {}
+    "C:\\Users\\Ruben\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coder\\OneDrive\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj": {
+    "C:\\Users\\Ruben\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coder\\OneDrive\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Ruben\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj",
         "projectName": "OperatorExercise",
-        "projectPath": "C:\\Users\\coder\\OneDrive\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj",
-        "packagesPath": "C:\\Users\\coder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coder\\OneDrive\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\obj\\",
+        "projectPath": "C:\\Users\\Ruben\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj",
+        "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ruben\\Desktop\\REPOS\\Operators-Exercise\\OperatorExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\coder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
